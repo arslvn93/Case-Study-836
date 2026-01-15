@@ -72,9 +72,6 @@ const config = {
         "Strategically guided them through 12 showings with laser focus on their non-negotiables: structural integrity, neighborhood quality, and real value",
         "Negotiated $4,900 below asking price while securing favorable terms, proving that in the right market conditions, buyers don't have to overpay to win"
       ],
-      "testimonial": {
-        "quote": "\"You truly were right when you said you would be the easiest part of this process. You've been such an immense support with this and what a journey for a first home purchase! Obviously we will be adding to your already pristine reviews (we won't mention your supernatural powers...) We really appreciate your no fluff approach and just telling it like it is. Thank you again for everything you've done for us!!\"<br><span>"
-      },
       "listItems": []
     },
     {
